@@ -35,6 +35,6 @@
 
 </details>
 
-[twitter]: https://twitter.com/Givaa
-[instagram]: https://instagram.com/Givaa
-[linkedin]: https://linkedin.com/in/Givaa
+[twitter]: https://twitter.com/holygivaa
+[instagram]: https://instagram.com/holygivaa
+[linkedin]: https://linkedin.com/in/giovanni-rapa-aa346b218
