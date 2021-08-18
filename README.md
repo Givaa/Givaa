@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I'm a pizza-lover
+- ⚡ Fun fact: I'm a pizza-fanboy
 
 ### Connect with me:
 
@@ -28,12 +28,12 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+:bar_chart: GitHub Stats
+---
 
-  <img align="left" alt="Givaa's GitHub Stats" src="https://github-readme-stats.Givaa.vercel.app/api?username=Givaa&show_icons=true&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Givaa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Givaa&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
 
 [twitter]: https://twitter.com/holygivaa
 [instagram]: https://instagram.com/holygivaa
