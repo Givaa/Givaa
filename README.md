@@ -31,7 +31,6 @@
 :bar_chart: GitHub Stats
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Givaa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Givaa&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
