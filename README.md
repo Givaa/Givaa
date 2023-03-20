@@ -2,7 +2,7 @@
 
 ## I'm a student of Computer Science in UNISA!
 
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning about AI and IoT security
 - 🥅 2023 Goals: Learn more about security
 - ⚡ Fun fact: I'm a pizza-fanboy
 
