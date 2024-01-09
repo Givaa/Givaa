@@ -3,8 +3,8 @@
 ## I'm a student of Computer Science in UNISA!
 
 - 🌱 I’m currently learning about AI and IoT security
-- 🥅 2023 Goals: Learn more about security
-- ⚡ Fun fact: I'm a pizza-fanboy
+- 🥅 2024 Goals: Learn more about security
+- ⚡ Fun fact: I only wore vans until the age of 21
 
 ### Connect with me:
 
